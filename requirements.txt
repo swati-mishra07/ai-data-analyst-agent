@@ -1,0 +1,13 @@
+pandas
+streamlit
+numpy
+matplotlib
+seaborn
+fastapi
+uvicorn
+langchain
+openai
+python-dotenv
+scikit-learn
+loguru
+kaggle
