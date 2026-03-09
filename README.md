@@ -1,14 +1,20 @@
 # AI Data Analyst Agent
 
-An AI-powered data analysis tool that automatically generates insights from datasets.
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
-## Features
+AI-powered data analysis dashboard that automatically generates insights from datasets.
+
+
+## Key Features
 
 - Upload CSV datasets
-- Built-in sample dataset
-- Automated data analysis
+- Automated exploratory data analysis
+- Interactive dashboard
 - AI-generated insights
-- Interactive dashboard using Streamlit
+- Data visualization
 
 ## Tech Stack
 
@@ -21,7 +27,15 @@ Docker
 
 ## Project Structure
 
-(app folder tree here)
+ai-data-analyst-agent
+│
+├── app
+├── src
+├── data
+├── notebooks
+├── images
+├── requirements.txt
+└── README.md
 
 ## Dashboard Preview
 
