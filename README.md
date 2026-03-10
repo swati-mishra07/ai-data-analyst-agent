@@ -196,5 +196,5 @@ Recommended datasets:
 
 Swati Mishra
 
-Github : https://github.com/swati-mishra07
-LinkedIn: https://www.linkedin.com/in/swati-mishra-801193308
+- Github : https://github.com/swati-mishra07
+- LinkedIn: https://www.linkedin.com/in/swati-mishra-801193308
