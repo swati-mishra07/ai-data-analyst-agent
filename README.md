@@ -155,7 +155,7 @@ Interactive dashboard output
 
 1. Clone repository
 
-git clone https://github.com/yourusername/ai-data-analyst-agent
+git clone https://github.com/swati-mishra07/ai-data-analyst-agent
 
 2. Install dependencies
 
